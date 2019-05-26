@@ -1,0 +1,7 @@
+.git
+.DS_Store
+Dockerfile
+README.md
+.vscode
+run.sh
+node_modules

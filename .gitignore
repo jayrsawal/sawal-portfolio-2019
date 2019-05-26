@@ -1,0 +1,6 @@
+node_modules
+bower_components
+vendor
+device-mockups
+server/config.js
+.DS_Store

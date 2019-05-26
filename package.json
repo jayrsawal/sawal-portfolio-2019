@@ -1,0 +1,44 @@
+{
+  "title": "sawal-portfolio",
+  "name": "Sawal-Portfolio",
+  "version": "1.0.0",
+  "description": "Simple Portfolio",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jayrsawal/Blank-Node.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bootstrap": "^4.3.1",
+    "express": "^4.16.3",
+    "font-awesome": "4.7.0",
+    "gulp-uglify-es": "^1.0.4",
+    "jquery": "^3.4.1",
+    "jquery.easing": "^1.4.1",
+    "natives": "^1.1.6",
+    "request": "^2.85.0",
+    "semantic-ui-css": "^2.3.1",
+    "simple-line-icons": "2.4.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-header": "^2.0.7",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify-es": "^1.0.4"
+  },
+  "scripts": {
+    "start": "gulp && node app.js"
+  }
+}
